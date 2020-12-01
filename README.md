@@ -11,3 +11,4 @@ This is a part of INSAID Capstone  project to help HR advisories to detect possi
 
 
 To checkout my notebook please click [here](https://github.com/sharoond/hr-employee-attrition-Sharoon/blob/main/HR_Analytics.ipynb) 
+This is my site click here![enter image description here](https://www.insaid.co/)
